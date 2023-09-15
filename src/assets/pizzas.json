@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/02ca2561953b488993878d1f70e359de_138x138.jpeg",
+    "name": "Chirozo fresh",
+    "types": [0, 1],
+    "sizes": [25, 30, 35],
+    "price": 8,
+    "category": 5,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/6046174c06e440299c4e7117a8ecfea4_138x138.jpeg",
+    "name": "Pesto",
+    "types": [0],
+    "sizes": [25, 30, 35],
+    "price": 7.4,
+    "category": 5,
+    "rating": 6
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/45cc8ffb190c4a28aaf1863a67f675c7_138x138.jpeg",
+    "name": "Chicken BBQ",
+    "types": [0],
+    "sizes": [25, 30, 35],
+    "price": 8,
+    "category": 4,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/c8ac7d2eb95b4bd0b8bc2f366415896c_138x138.jpeg",
+    "name": "Chicken curry",
+    "types": [1],
+    "sizes": [25, 30, 35],
+    "price": 7.5,
+    "category": 5,
+    "rating": 2
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/a96e936c158249e18c831bbcce677065_138x138.jpeg",
+    "name": "Double pepperoni",
+    "types": [0, 1],
+    "sizes": [25, 30, 35],
+    "price": 7.3,
+    "category": 1,
+    "rating": 8
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/d51fa179760041f0831e63fa21c39402_138x138.jpeg",
+    "name": "Four seasons",
+    "types": [0],
+    "sizes": [25, 30, 35],
+    "price": 6.8,
+    "category": 1,
+    "rating": 2
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/fb9cc5b8ff2e47bdbcbdcb5930cddf06_138x138.jpeg",
+    "name": "Pepperoni",
+    "types": [0, 1],
+    "sizes": [25, 30, 35],
+    "price": 6,
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/748949429e25404ea10aab002c910d84_138x138.jpeg",
+    "name": "Margerita 🌱",
+    "types": [0, 1],
+    "sizes": [25, 30, 35],
+    "price": 5.5,
+    "category": 2,
+    "rating": 10
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/ddadb2bd7f2d40459acddbe2f51a2389_138x138.jpeg",
+    "name": "Double chicken 👶",
+    "types": [0, 1],
+    "sizes": [25, 30, 35],
+    "price": 6,
+    "category": 1,
+    "rating": 10
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+    "name": "Vegetables and mushrooms 🌱",
+    "types": 2,
+    "sizes": [25, 30, 35],
+    "price": 7.5,
+    "category": 2,
+    "rating": 7
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/cea570842b754c52b786c231c65bd2e2_138x138.jpeg",
+    "name": "Ham and cheese",
+    "types": 1,
+    "sizes": [20, 30, 35],
+    "price": 9,
+    "category": 1,
+    "rating": 7
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/d9c609f1422247f2b87b6293eb461ff0_138x138.jpeg",
+    "name": "Cheese for kids 🌱👶",
+    "types": 1,
+    "sizes": [20, 30, 35],
+    "price": 9,
+    "category": 3,
+    "rating": 1
+  }
+]

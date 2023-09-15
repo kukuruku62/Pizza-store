@@ -1,0 +1,37 @@
+.search__container {
+  position: relative;
+}
+
+.search {
+  width: 500px;
+  // max-width: 250px;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid #919191;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+
+  &:focus {
+    border: 2px solid rgb(172, 172, 172);
+  }
+}
+
+.icon__search {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.icon__clear {
+  position: absolute;
+  top: 0;
+  right: 0;
+  opacity: 0.7;
+  cursor: pointer;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
